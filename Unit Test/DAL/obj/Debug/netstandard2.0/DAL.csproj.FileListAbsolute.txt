@@ -1,0 +1,8 @@
+E:\Sample Projects\In Memory Unit Test Ef Core\WebApplication1\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+E:\Sample Projects\In Memory Unit Test Ef Core\WebApplication1\DAL\bin\Debug\netstandard2.0\DAL.dll
+E:\Sample Projects\In Memory Unit Test Ef Core\WebApplication1\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+E:\Sample Projects\In Memory Unit Test Ef Core\WebApplication1\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+E:\Sample Projects\In Memory Unit Test Ef Core\WebApplication1\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+E:\Sample Projects\In Memory Unit Test Ef Core\WebApplication1\DAL\bin\Debug\netstandard2.0\DAL.pdb
+E:\Sample Projects\In Memory Unit Test Ef Core\WebApplication1\DAL\obj\Debug\netstandard2.0\DAL.dll
+E:\Sample Projects\In Memory Unit Test Ef Core\WebApplication1\DAL\obj\Debug\netstandard2.0\DAL.pdb
